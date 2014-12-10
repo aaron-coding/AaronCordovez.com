@@ -1,3 +1,7 @@
-.fa-phone:after {
-  content: "\f095";
+
+.item a img {
+  height: 164px;
+  object-fit: cover;
+  background-color: orange;
+  border: 10px red solid;
 }
